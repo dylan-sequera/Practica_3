@@ -1,0 +1,12 @@
+C:\DYLAN 24638\Practica3\Practica3\bin\Debug\Practica3.exe.config
+C:\DYLAN 24638\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\DYLAN 24638\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\DYLAN 24638\Practica3\Practica3\bin\Debug\Practica3.xml
+C:\DYLAN 24638\Practica3\Practica3\obj\Debug\Practica3.vbprojAssemblyReference.cache
+C:\DYLAN 24638\Practica3\Practica3\obj\Debug\Practica3.Form1.resources
+C:\DYLAN 24638\Practica3\Practica3\obj\Debug\Practica3.Resources.resources
+C:\DYLAN 24638\Practica3\Practica3\obj\Debug\Practica3.vbproj.GenerateResource.cache
+C:\DYLAN 24638\Practica3\Practica3\obj\Debug\Practica3.vbproj.CoreCompileInputs.cache
+C:\DYLAN 24638\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\DYLAN 24638\Practica3\Practica3\obj\Debug\Practica3.xml
+C:\DYLAN 24638\Practica3\Practica3\obj\Debug\Practica3.pdb
