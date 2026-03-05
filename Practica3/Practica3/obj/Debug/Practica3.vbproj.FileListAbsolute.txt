@@ -10,3 +10,15 @@ C:\DYLAN 24638\Practica3\Practica3\obj\Debug\Practica3.vbproj.CoreCompileInputs.
 C:\DYLAN 24638\Practica3\Practica3\obj\Debug\Practica3.exe
 C:\DYLAN 24638\Practica3\Practica3\obj\Debug\Practica3.xml
 C:\DYLAN 24638\Practica3\Practica3\obj\Debug\Practica3.pdb
+C:\Users\informa\Downloads\Practica_3-main\Practica3\Practica3\bin\Debug\Practica3.exe.config
+C:\Users\informa\Downloads\Practica_3-main\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\Users\informa\Downloads\Practica_3-main\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\Users\informa\Downloads\Practica_3-main\Practica3\Practica3\bin\Debug\Practica3.xml
+C:\Users\informa\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.vbprojAssemblyReference.cache
+C:\Users\informa\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.Form1.resources
+C:\Users\informa\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.Resources.resources
+C:\Users\informa\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.vbproj.GenerateResource.cache
+C:\Users\informa\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.vbproj.CoreCompileInputs.cache
+C:\Users\informa\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\Users\informa\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.xml
+C:\Users\informa\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.pdb
