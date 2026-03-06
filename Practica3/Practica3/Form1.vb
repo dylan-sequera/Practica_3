@@ -19,6 +19,19 @@
 
         promedio = (mat1 + mat2 + mat3 + mat4 + mat5 + mat6 + mat7 + mat8 + mat9 + mat10 + mat11 + mat12 + mat13) / 13
 
-        resultado.Text = promedio.ToString()
+        Dim redondeo As Double = Math.Round(promedio, 1)
+
+        resultado.Text = redondeo.ToString()
+
+
+        If redondeo = 10 Then
+            mensaje.BackColor = Color.Green
+            mensaje.Text = "Excelente!"
+        ElseIf promedio >= 6 Then
+            mensaje.BackColor = Color.PaleGreen
+            mensaje.Text = "Aprobado!"
+        Else mensaje.BackColor = Color.Tomato
+            mensaje.Text = "Reprobado!"
+        End If
     End Sub
 End Class

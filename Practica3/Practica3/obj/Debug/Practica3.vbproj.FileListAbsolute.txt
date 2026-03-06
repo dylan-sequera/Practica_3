@@ -22,3 +22,15 @@ C:\Users\informa\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practic
 C:\Users\informa\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.exe
 C:\Users\informa\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.xml
 C:\Users\informa\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.pdb
+C:\Users\win512\Downloads\Practica_3-main\Practica3\Practica3\bin\Debug\Practica3.exe.config
+C:\Users\win512\Downloads\Practica_3-main\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\Users\win512\Downloads\Practica_3-main\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\Users\win512\Downloads\Practica_3-main\Practica3\Practica3\bin\Debug\Practica3.xml
+C:\Users\win512\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.vbprojAssemblyReference.cache
+C:\Users\win512\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.Form1.resources
+C:\Users\win512\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.Resources.resources
+C:\Users\win512\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.vbproj.GenerateResource.cache
+C:\Users\win512\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\Users\win512\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.xml
+C:\Users\win512\Downloads\Practica_3-main\Practica3\Practica3\obj\Debug\Practica3.pdb
